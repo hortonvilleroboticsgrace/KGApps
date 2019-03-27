@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     //TODO: Get a way to get some sick games into this machine
     //TODO: Get a way to have graphics on buttons/background??
 
+
     //I have no idea if any of this works... I'm one of those Apple people XD
 
 }
