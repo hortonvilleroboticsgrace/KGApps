@@ -26,6 +26,7 @@ public class HomeScreen extends AppCompatActivity {
             }
         };
 
+        play.setOnClickListener(c);
     }
 
     //I have it set up right now to basically do this
